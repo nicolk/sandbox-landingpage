@@ -232,9 +232,9 @@ const { navigate } = useUI()
 /* demo image */
 
 .demo-image {
-  width: 471px;
-  height: 328px;
-  background: url('@/assets/images/cross-border-pay-demo-image.png') left center no-repeat;
+  width: 592px;
+  height: 290px;
+  background: url('@/assets/images/cross-border-pay-demo-image.svg') left center no-repeat;
 }
 
 /* demo feature */
