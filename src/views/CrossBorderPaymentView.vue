@@ -233,8 +233,7 @@ const { navigate } = useUI()
 
 .demo-image {
   width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
+  height: auto;
   background: url('@/assets/images/cross-border-pay-demo-image.svg') left center no-repeat;
 }
 
